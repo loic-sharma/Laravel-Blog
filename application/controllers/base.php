@@ -14,7 +14,7 @@ class Base_Controller extends Controller {
 	 *
 	 * @var string
 	 */
-	public $layout  = 'layout';
+	public $layout = 'layout';
 
 	/**
 	 * Catch-all method for requests that can't be matched.
